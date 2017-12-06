@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='18'>
+    <iu id='AnyEditTools.feature.group' name='AnyEditTools' version='2.4.15.201504172030'>
+      <repositories size='1'>
+        <repository location='http://andrei.gmxhome.de/eclipse/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.snipmatch.rcp.feature.feature.group' name='Code Recommenders Snipmatch' version='2.1.14.v20150423-1305'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/recommenders/updates/stable/'/>
+        <repository location='http://download.codetrails.com/updates/connect/stable/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.recommenders.templates.snipmatch.rcp.feature.feature.group' name='Code Recommenders Snipmatch Editor Extension (Incubator)' version='0.3.0.v20150418-0407'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/recommenders.incubator/snipmatch/updates/milestones/'/>
+      </repositories>
+    </iu>
+    <iu id='com.codetrails.connect.hippie.rcp.feature.feature.group' name='Connect Hippie Completion' version='1.4.0.v20150430-1833-b1665'>
+      <repositories size='1'>
+        <repository location='http://download.codetrails.com/updates/connect/stable/'/>
+      </repositories>
+    </iu>
+    <iu id='net.sf.colorer.feature.group' name='Eclipse Colorer' version='0.9.9'>
+      <repositories size='1'>
+        <repository location='http://colorer.sf.net/eclipsecolorer/'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.java' name='Eclipse IDE for Java Developers' version='4.4.2.20150219-0708'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/releases/luna'/>
+      </repositories>
+    </iu>
+    <iu id='org.springsource.ide.eclipse.commons.quicksearch.feature.feature.group' name='Eclipse Quicksearch' version='3.6.4.201503050855-RELEASE'>
+      <repositories size='1'>
+        <repository location='http://dist.springsource.com/release/TOOLS/update/e4.3/'/>
+      </repositories>
+    </iu>
+    <iu id='pm.eclipse.editbox.feature.feature.group' name='EditBox' version='0.0.23'>
+      <repositories size='2'>
+        <repository location='http://editbox.sourceforge.net/updates'/>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='edu.umd.cs.findbugs.plugin.eclipse.feature.group' name='FindBugs Feature' version='3.0.1.20150306-5afe4d1'>
+      <repositories size='2'>
+        <repository location='http://findbugs.cs.umd.edu/eclipse'/>
+        <repository location='http://andrei.gmxhome.de/eclipse/'/>
+      </repositories>
+    </iu>
+    <iu id='jp.sourceforge.pdt_tools.indentGuide.feature.feature.group' name='Indent Guide' version='1.4.1'>
+      <repositories size='1'>
+        <repository location='http://sschaef.github.io/IndentGuide/update/'/>
+      </repositories>
+    </iu>
+    <iu id='it.unibz.instasearch.feature.indigo.feature.group' name='InstaSearch' version='1.5.6'>
+      <repositories size='2'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+        <repository location='http://dl.bintray.com/ajermakovics/InstaSearch/'/>
+      </repositories>
+    </iu>
+    <iu id='de.cdhq.eclipse.linenumberfix.luna.feature.feature.group' name='Line Number Ruler Fix (Eclipse Luna 4.4)' version='0.0.1'>
+      <repositories size='1'>
+        <repository location='http://dev.cdhq.de/eclipse/updatesite/luna/'/>
+      </repositories>
+    </iu>
+    <iu id='com.asparck.eclipse.multicursor.feature.feature.group' name='Multicursor Editing' version='0.1.4'>
+      <repositories size='0'/>
+    </iu>
+    <iu id='net.sourceforge.pmd.eclipse.feature.group' name='PMD Plug-in' version='4.0.7.v20150522-1709'>
+      <repositories size='0'/>
+    </iu>
+    <iu id='gr.scharf.fullscreen_feature.feature.group' name='Show Window in Fullscreen' version='1.0.0.200906130439'>
+      <repositories size='1'>
+        <repository location='http://www.scharf.gr/eclipse/fullscreen/update/'/>
+      </repositories>
+    </iu>
+    <iu id='de.odysseus.stan.eclipse.ide.feature.group' name='STAN IDE' version='2.1.2.v20140325'>
+      <repositories size='1'>
+        <repository location='http://update.stan4j.com/ide'/>
+      </repositories>
+    </iu>
+    <iu id='de.bastiankrol.startexplorer.feature.feature.group' name='StartExplorer  Feature' version='1.6.1'>
+      <repositories size='2'>
+        <repository location='http://basti1302.github.com/startexplorer/update/'/>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='de.cdhq.eclipse.wordwrap.feature.feature.group' name='Word Wrap Feature' version='0.1.4'>
+      <repositories size='1'>
+        <repository location='http://dev.cdhq.de/eclipse/updatesite/luna/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>

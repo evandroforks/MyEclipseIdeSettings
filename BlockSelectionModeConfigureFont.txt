@@ -1,0 +1,9 @@
+You can enable and disable column editing mode via the keyboard shortcut ALT-SHIFT-A.
+
+Once enabled you can then use either the mouse to select a block of text, or the keyboard using SHIFT (like a normal keyboard select, except the selection will now be in a block).
+
+If you've changed your default font for text editing, entering column editing mode will probably change your screen font to the default column editing font (which is probably different to your changed font. To change the font when in column editing mode, go to the menu and select Window -> Preferences, then in the tree on the left hand side, pick General -> Appearance -> Colors and Fonts, and then pick Basic -> Text Editor Block Selection Font on the right hand side tree. You can then select the font to be consistent with your "not in column editing mode" font.
+
+http://stackoverflow.com/questions/1053725/how-do-i-enable-the-column-selection-mode-in-eclipse
+
+
